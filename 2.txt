@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is 2.txt for git test & written on branch b1;
+=======
+This is 2.txt for git test & written on branch b2;
+>>>>>>> b2
